@@ -7,10 +7,10 @@ It was written in Swift using SwiftUI and it uses the MVVM design pattern and th
 
 ## Screenshots
 <p align="center">
-	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/login-screen-iphone13promax.png" alt="Login Screen" width="185">
-	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/add-pet-screen-iphone13promax.png" alt="Add New Pet Screen" width="185">
-	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/medicine-list-screen-iphone13promax.png" alt="Medicine List Screen" width="185">
-	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/clinics-map-screen-iphone13promax.png" alt="Clinics Map Screen" width="185">
+	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/login-screen-iphone13promax.png" alt="Login Screen" width="190">
+	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/add-pet-screen-iphone13promax.png" alt="Add New Pet Screen" width="190">
+	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/medicine-list-screen-iphone13promax.png" alt="Medicine List Screen" width="190">
+	<img src="http://mgorzkowski.pl/wp-content/uploads/2022/10/clinics-map-screen-iphone13promax.png" alt="Clinics Map Screen" width="190">
 </p>
 
 ## Features
