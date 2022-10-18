@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>929368457312-k36ah4qpnrsgrjidas5n6dn65gfsbram.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.929368457312-k36ah4qpnrsgrjidas5n6dn65gfsbram</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUWh6yJ1OwYFE4L8etTkoQ_9e-5tovI58</string>
+	<key>GCM_SENDER_ID</key>
+	<string>929368457312</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pl.mgorzkowski.PetVet3</string>
+	<key>PROJECT_ID</key>
+	<string>petvet3-3de2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petvet3-3de2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:929368457312:ios:9e6563e89cdf1e92e7c305</string>
+</dict>
+</plist>
